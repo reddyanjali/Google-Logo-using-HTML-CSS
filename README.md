@@ -7,6 +7,10 @@ Google Logo created using a single 'div'.
 
 :cherry_blossom: Please make sure to update tests as appropriate.
 
+## :four_leaf_clover: Output
+
+![Google-Logo](https://github.com/reddyanjali/Google-Logo-using-HTML-CSS/blob/main/output-google.png)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
